@@ -1,0 +1,459 @@
+Ceremony,Won,Name,Birthdate,Film
+1,TRUE,Lewis Milestone,"September 30, 1895",Two Arabian Knights
+1,FALSE,Ted Wilde,"December 16, 1889",Speedy
+1,TRUE,Frank Borzage,"April 23, 1894",7th Heaven
+1,FALSE,Herbert Brenon,"January 13, 1880",Sorrell and Son
+1,FALSE,King Vidor,"February 08, 1894",The Crowd
+2,FALSE,Lionel Barrymore,"April 28, 1878",Madame X
+2,FALSE,Harry Beaumont,"February 10, 1888",The Broadway Melody
+2,FALSE,Irving Cummings,"October 09, 1888",In Old Arizona
+2,TRUE,Frank Lloyd,"February 02, 1886",The Divine Lady
+2,FALSE,Frank Lloyd,"February 02, 1886",Drag; Weary River
+2,FALSE,Ernst Lubitsch,"January 29, 1892",The Patriot
+3,FALSE,Clarence Brown,"May 10, 1890",Anna Christie; Romance
+3,FALSE,Robert Leonard,"October 07, 1889",The Divorcee
+3,FALSE,Ernst Lubitsch,"January 29, 1892",The Love Parade
+3,TRUE,Lewis Milestone,"September 30, 1895",All Quiet on the Western Front
+3,FALSE,King Vidor,"February 08, 1894",Hallelujah
+4,FALSE,Wesley Ruggles,"June 11, 1889",Cimarron
+4,FALSE,Clarence Brown,"May 10, 1890",A Free Soul
+4,FALSE,Lewis Milestone,"September 30, 1895",The Front Page
+4,FALSE,Josef Von Sternberg,"May 29, 1894",Morocco
+4,TRUE,Norman Taurog,"February 23, 1899",Skippy
+5,TRUE,Frank Borzage,"April 23, 1894",Bad Girl
+5,FALSE,King Vidor,"February 08, 1894",The Champ
+5,FALSE,Josef Von Sternberg,"May 29, 1894",Shanghai Express
+6,TRUE,Frank Lloyd,"February 02, 1886",Cavalcade
+6,FALSE,Frank Capra,"May 18, 1897",Lady for a Day
+6,FALSE,George Cukor,"July 07, 1899",Little Women
+7,TRUE,Frank Capra,"May 18, 1897",It Happened One Night
+7,FALSE,Victor Schertzinger,"April 08, 1888",One Night of Love
+7,FALSE,W. S. Van Dyke,"March 21, 1889",The Thin Man
+8,FALSE,Michael Curtiz,"December 24, 1886",Captain Blood
+8,TRUE,John Ford,"February 01, 1894",The Informer
+8,FALSE,Henry Hathaway,"March 13, 1898",The Lives of a Bengal Lancer
+8,FALSE,Frank Lloyd,"February 02, 1886",Mutiny on the Bounty
+9,FALSE,William Wyler,"July 01, 1902",Dodsworth
+9,FALSE,Robert Z. Leonard,"October 07, 1889",The Great Ziegfeld
+9,TRUE,Frank Capra,"May 18, 1897",Mr. Deeds Goes to Town
+9,FALSE,Gregory La Cava,"March 10, 1892",My Man Godfrey
+9,FALSE,W. S. Van Dyke,"March 21, 1889",San Francisco
+10,TRUE,Leo McCarey,"October 03, 1898",The Awful Truth
+10,FALSE,Sidney Franklin,"March 21, 1893",The Good Earth
+10,FALSE,William Dieterle,"July 15, 1893",The Life of Emile Zola
+10,FALSE,Gregory La Cava,"March 10, 1892",Stage Door
+10,FALSE,William Wellman,"February 29, 1896",A Star Is Born
+11,FALSE,Michael Curtiz,"December 24, 1886",Angels with Dirty Faces
+11,FALSE,Norman Taurog,"February 23, 1899",Boys Town
+11,FALSE,King Vidor,"February 08, 1894",The Citadel
+11,FALSE,Michael Curtiz,"December 24, 1886",Four Daughters
+11,TRUE,Frank Capra,"May 18, 1897",You Can't Take It with You
+12,TRUE,Victor Fleming,"February 23, 1889",Gone with the Wind
+12,FALSE,Sam Wood,"July 10, 1883","Goodbye, Mr. Chips"
+12,FALSE,Frank Capra,"May 18, 1897",Mr. Smith Goes to Washington
+12,FALSE,John Ford,"February 01, 1894",Stagecoach
+12,FALSE,William Wyler,"July 01, 1902",Wuthering Heights
+13,TRUE,John Ford,"February 01, 1894",The Grapes of Wrath
+13,FALSE,Sam Wood,"July 10, 1883",Kitty Foyle
+13,FALSE,William Wyler,"July 01, 1902",The Letter
+13,FALSE,George Cukor,"July 07, 1899",The Philadelphia Story
+13,FALSE,Alfred Hitchcock,"August 13, 1899",Rebecca
+14,FALSE,Orson Welles,"May 06, 1915",Citizen Kane
+14,FALSE,Alexander Hall,"January 11, 1894",Here Comes Mr. Jordan
+14,TRUE,John Ford,"February 01, 1894",How Green Was My Valley
+14,FALSE,William Wyler,"July 01, 1902",The Little Foxes
+14,FALSE,Howard Hawks,"May 30, 1896",Sergeant York
+15,FALSE,Sam Wood,"July 10, 1883",Kings Row
+15,TRUE,William Wyler,"July 01, 1902",Mrs. Miniver
+15,FALSE,Mervyn LeRoy,"October 15, 1900",Random Harvest
+15,FALSE,John Farrow,"February 10, 1904",Wake Island
+15,FALSE,Michael Curtiz,"December 24, 1886",Yankee Doodle Dandy
+16,TRUE,Michael Curtiz,"December 24, 1886",Casablanca
+16,FALSE,Ernst Lubitsch,"January 29, 1892",Heaven Can Wait
+16,FALSE,Clarence Brown,"May 10, 1890",The Human Comedy
+16,FALSE,George Stevens,"December 18, 1904",The More the Merrier
+16,FALSE,Henry King,"January 24, 1886",The Song of Bernadette
+17,FALSE,Billy Wilder,"June 22, 1906",Double Indemnity
+17,TRUE,Leo McCarey,"October 03, 1898",Going My Way
+17,FALSE,Otto Preminger,"December 05, 1905",Laura
+17,FALSE,Alfred Hitchcock,"August 13, 1899",Lifeboat
+17,FALSE,Henry King,"January 24, 1886",Wilson
+18,FALSE,Leo McCarey,"October 03, 1898",The Bells of St. Mary's
+18,TRUE,Billy Wilder,"June 22, 1906",The Lost Weekend
+18,FALSE,Clarence Brown,"May 10, 1890",National Velvet
+18,FALSE,Jean Renoir,"September 15, 1894",The Southerner
+18,FALSE,Alfred Hitchcock,"August 13, 1899",Spellbound
+19,TRUE,William Wyler,"July 01, 1902",The Best Years of Our Lives
+19,FALSE,David Lean,"March 25, 1908",Brief Encounter
+19,FALSE,Frank Capra,"May 18, 1897",It's a Wonderful Life
+19,FALSE,Robert Siodmak,"August 08, 1900",The Killers
+19,FALSE,Clarence Brown,"May 10, 1890",The Yearling
+20,FALSE,Henry Koster,"May 01, 1905",The Bishop's Wife
+20,FALSE,Edward Dmytryk,"September 04, 1908",Crossfire
+20,FALSE,George Cukor,"July 07, 1899",A Double Life
+20,TRUE,Elia Kazan,"September 07, 1909",Gentleman's Agreement
+20,FALSE,David Lean,"March 25, 1908",Great Expectations
+21,FALSE,Laurence Olivier,"May 22, 1907",Hamlet
+21,FALSE,Jean Negulesco,"February 26, 1900",Johnny Belinda
+21,FALSE,Fred Zinnemann,"April 29, 1907",The Search
+21,FALSE,Anatole Litvak,"May 21, 1902",The Snake Pit
+21,TRUE,John Huston,"August 05, 1906",The Treasure of the Sierra Madre
+22,FALSE,Robert Rossen,"March 16, 1908",All the King's Men
+22,FALSE,William A. Wellman,"February 29, 1896",Battleground
+22,FALSE,Carol Reed,"December 30, 1906",The Fallen Idol
+22,FALSE,William Wyler,"July 01, 1902",The Heiress
+22,TRUE,Joseph L. Mankiewicz,"February 11, 1909",A Letter to Three Wives
+23,TRUE,Joseph L. Mankiewicz,"February 11, 1909",All about Eve
+23,FALSE,John Huston,"August 05, 1906",The Asphalt Jungle
+23,FALSE,George Cukor,"July 07, 1899",Born Yesterday
+23,FALSE,Billy Wilder,"June 22, 1906",Sunset Blvd.
+23,FALSE,Carol Reed,"December 30, 1906",The Third Man
+24,FALSE,John Huston,"August 05, 1906",The African Queen
+24,FALSE,Vincente Minnelli,"February 28, 1903",An American in Paris
+24,FALSE,William Wyler,"July 01, 1902",Detective Story
+24,TRUE,George Stevens,"December 18, 1904",A Place in the Sun
+24,FALSE,Elia Kazan,"September 07, 1909",A Streetcar Named Desire
+25,FALSE,Joseph L. Mankiewicz,"February 11, 1909",Five Fingers
+25,FALSE,Cecil B. DeMille,"August 12, 1881",The Greatest Show on Earth
+25,FALSE,Fred Zinnemann,"April 29, 1907",High Noon
+25,FALSE,John Huston,"August 05, 1906",Moulin Rouge
+25,TRUE,John Ford,"February 01, 1894",The Quiet Man
+26,TRUE,Fred Zinnemann,"April 29, 1907",From Here to Eternity
+26,FALSE,Charles Walters,"November 17, 1911",Lili
+26,FALSE,William Wyler,"July 01, 1902",Roman Holiday
+26,FALSE,George Stevens,"December 18, 1904",Shane
+26,FALSE,Billy Wilder,"June 22, 1906",Stalag 17
+27,FALSE,George Seaton,"April 17, 1911",The Country Girl
+27,FALSE,William A. Wellman,"February 29, 1896",The High and the Mighty
+27,TRUE,Elia Kazan,"September 07, 1909",On the Waterfront
+27,FALSE,Alfred Hitchcock,"August 13, 1899",Rear Window
+27,FALSE,Billy Wilder,"June 22, 1906",Sabrina
+28,FALSE,John Sturges,"January 03, 1910",Bad Day at Black Rock
+28,FALSE,Elia Kazan,"September 07, 1909",East of Eden
+28,TRUE,Delbert Mann,"January 30, 1920",Marty
+28,FALSE,Joshua Logan,"October 05, 1908",Picnic
+28,FALSE,David Lean,"March 25, 1908",Summertime
+29,FALSE,Michael Anderson,"January 30, 1920",Around the World in 80 Days
+29,FALSE,William Wyler,"July 01, 1902",Friendly Persuasion
+29,TRUE,George Stevens,"December 18, 1904",Giant
+29,FALSE,Walter Lang,"August 10, 1896",The King and I
+29,FALSE,King Vidor,"February 08, 1894",War and Peace
+30,TRUE,David Lean,"March 25, 1908",The Bridge on the River Kwai
+30,FALSE,Mark Robson,"December 04, 1913",Peyton Place
+30,FALSE,Joshua Logan,"October 05, 1908",Sayonara
+30,FALSE,Sidney Lumet,"June 25, 1924",12 Angry Men
+30,FALSE,Billy Wilder,"June 22, 1906",Witness for the Prosecution
+31,FALSE,Richard Brooks,"May 18, 1912",Cat on a Hot Tin Roof
+31,FALSE,Stanley Kramer,"September 29, 1913",The Defiant Ones
+31,TRUE,Vincente Minnelli,"February 28, 1903",Gigi
+31,FALSE,Robert Wise,"September 10, 1914",I Want to Live!
+31,FALSE,Mark Robson,"December 04, 1913",The Inn of the Sixth Happiness
+32,TRUE,William Wyler,"July 01, 1902",Ben-Hur
+32,FALSE,George Stevens,"December 18, 1904",The Diary of Anne Frank
+32,FALSE,Fred Zinnemann,"April 29, 1907",The Nun's Story
+32,FALSE,Jack Clayton,"March 01, 1921",Room at the Top
+32,FALSE,Billy Wilder,"June 22, 1906",Some Like It Hot
+33,TRUE,Billy Wilder,"June 22, 1906",The Apartment
+33,FALSE,Jules Dassin,"December 18, 1911",Never on Sunday
+33,FALSE,Alfred Hitchcock,"August 13, 1899",Psycho
+33,FALSE,Jack Cardiff,"September 18, 1914",Sons and Lovers
+33,FALSE,Fred Zinnemann,"April 29, 1907",The Sundowners
+34,FALSE,J. Lee Thompson,"August 01, 1914",The Guns of Navarone
+34,FALSE,Robert Rossen,"March 16, 1908",The Hustler
+34,FALSE,Stanley Kramer,"September 29, 1913",Judgment at Nuremberg
+34,FALSE,Federico Fellini,"January 20, 1920",La Dolce Vita
+34,TRUE,Robert Wise*,"September 10, 1914",West Side Story
+34,TRUE,Jerome Robbins*,"October 11, 1918",West Side Story
+35,FALSE,Frank Perry,"August 21, 1930",David and Lisa
+35,FALSE,Pietro Germi,"September 14, 1914",Divorce--Italian Style
+35,TRUE,David Lean,"March 25, 1908",Lawrence of Arabia
+35,FALSE,Arthur Penn,"September 27, 1922",The Miracle Worker
+35,FALSE,Robert Mulligan,"August 23, 1925",To Kill a Mockingbird
+36,FALSE,Elia Kazan,"September 07, 1909",America America
+36,FALSE,Otto Preminger,"December 05, 1905",The Cardinal
+36,FALSE,Federico Fellini,"January 20, 1920",Federico Fellini's 8-1/2
+36,FALSE,Martin Ritt,"March 02, 1914",Hud
+36,TRUE,Tony Richardson,"June 05, 1928",Tom Jones
+37,FALSE,Peter Glenville,"October 28, 1913",Becket
+37,FALSE,Stanley Kubrick,"July 26, 1928",Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+37,FALSE,Robert Stevenson,"March 31, 1905",Mary Poppins
+37,TRUE,George Cukor,"July 07, 1899",My Fair Lady
+37,FALSE,Michael Cacoyannis,"June 11, 1922",Zorba the Greek
+38,FALSE,William Wyler,"July 01, 1902",The Collector
+38,FALSE,John Schlesinger,"February 16, 1926",Darling
+38,FALSE,David Lean,"March 25, 1908",Doctor Zhivago
+38,TRUE,Robert Wise,"September 10, 1914",The Sound of Music
+38,FALSE,Hiroshi Teshigahara,"January 28, 1927",Woman in the Dunes
+39,FALSE,Michelangelo Antonioni,"September 29, 1912",Blow-Up
+39,FALSE,Claude Lelouch,"October 30, 1937",A Man and a Woman
+39,TRUE,Fred Zinnemann,"April 29, 1907",A Man for All Seasons
+39,FALSE,Richard Brooks,"May 18, 1912",The Professionals
+39,FALSE,Mike Nichols,"November 06, 1931",Who's Afraid of Virginia Woolf?
+40,FALSE,Arthur Penn,"September 27, 1922",Bonnie and Clyde
+40,TRUE,Mike Nichols,"November 06, 1931",The Graduate
+40,FALSE,Stanley Kramer,"September 29, 1913",Guess Who's Coming to Dinner
+40,FALSE,Richard Brooks,"May 18, 1912",In Cold Blood
+40,FALSE,Norman Jewison,"July 21, 1926",In the Heat of the Night
+41,FALSE,Gillo Pontecorvo,"November 19, 1919",The Battle of Algiers
+41,FALSE,Anthony Harvey,"June 03, 1930",The Lion in Winter
+41,TRUE,Carol Reed,"December 30, 1906",Oliver!
+41,FALSE,Franco Zeffirelli,"February 12, 1923",Romeo and Juliet
+41,FALSE,Stanley Kubrick,"July 26, 1928",2001: A Space Odyssey
+42,FALSE,Arthur Penn,"September 27, 1922",Alice's Restaurant
+42,FALSE,George Roy Hill,"December 20, 1921",Butch Cassidy and the Sundance Kid
+42,TRUE,John Schlesinger,"February 16, 1926",Midnight Cowboy
+42,FALSE,Sydney Pollack,"July 01, 1934","They Shoot Horses, Don't They?"
+42,FALSE,Costa-Gavras,"February 12, 1933",Z
+43,FALSE,Federico Fellini,"January 20, 1920",Fellini Satyricon
+43,FALSE,Arthur Hiller,"November 22, 1923",Love Story
+43,FALSE,Robert Altman,"February 20, 1925",M*A*S*H
+43,TRUE,Franklin J. Schaffner,"May 30, 1920",Patton
+43,FALSE,Ken Russell,"July 03, 1927",Women in Love
+44,FALSE,Stanley Kubrick,"July 26, 1928",A Clockwork Orange
+44,FALSE,Norman Jewison,"July 21, 1926",Fiddler on the Roof
+44,TRUE,William Friedkin,"August 29, 1935",The French Connection
+44,FALSE,Peter Bogdanovich,"July 30, 1939",The Last Picture Show
+44,FALSE,John Schlesinger,"February 16, 1926",Sunday Bloody Sunday
+45,TRUE,Bob Fosse,"June 23, 1927",Cabaret
+45,FALSE,John Boorman,"January 18, 1933",Deliverance
+45,FALSE,Jan Troell,"July 23, 1931",The Emigrants
+45,FALSE,Francis Ford Coppola,"April 07, 1939",The Godfather
+45,FALSE,Joseph L. Mankiewicz,"February 11, 1909",Sleuth
+46,FALSE,George Lucas,"May 14, 1944",American Graffiti
+46,FALSE,Ingmar Bergman,"July 14, 1918",Cries and Whispers
+46,FALSE,William Friedkin,"August 29, 1935",The Exorcist
+46,FALSE,Bernardo Bertolucci,"March 16, 1941",Last Tango in Paris
+46,TRUE,George Roy Hill,"December 20, 1921",The Sting
+47,FALSE,Roman Polanski,"August 18, 1933",Chinatown
+47,FALSE,François Truffaut,"February 06, 1932",Day for Night
+47,TRUE,Francis Ford Coppola,"April 07, 1939",The Godfather Part II
+47,FALSE,Bob Fosse,"June 23, 1927",Lenny
+47,FALSE,John Cassavetes,"December 09, 1929",A Woman under the Influence
+48,FALSE,Federico Fellini,"January 20, 1920",Amarcord
+48,FALSE,Stanley Kubrick,"July 26, 1928",Barry Lyndon
+48,FALSE,Sidney Lumet,"June 25, 1924",Dog Day Afternoon
+48,FALSE,Robert Altman,"February 20, 1925",Nashville
+48,TRUE,Miloš Forman,"February 18, 1932",One Flew over the Cuckoo's Nest
+49,FALSE,Alan J. Pakula,"April 07, 1928",All the President's Men
+49,FALSE,Ingmar Bergman,"July 14, 1918",Face to Face
+49,FALSE,Sidney Lumet,"June 25, 1924",Network
+49,TRUE,John G. Avildsen,"December 21, 1935",Rocky
+49,FALSE,Lina Wertmüller,"August 14, 1928",Seven Beauties
+50,TRUE,Woody Allen,"December 01, 1935",Annie Hall
+50,FALSE,Steven Spielberg,"December 18, 1946",Close Encounters of the Third Kind
+50,FALSE,Fred Zinnemann,"April 29, 1907",Julia
+50,FALSE,George Lucas,"May 14, 1944",Star Wars
+50,FALSE,Herbert Ross,"May 13, 1927",The Turning Point
+51,FALSE,Hal Ashby,"September 02, 1929",Coming Home
+51,TRUE,Michael Cimino,"February 03, 1939",The Deer Hunter
+51,FALSE,Warren Beatty*,"March 30, 1937",Heaven Can Wait
+51,FALSE,Buck Henry*,"March 30, 1937",Heaven Can Wait
+51,FALSE,Woody Allen,"December 01, 1935",Interiors
+51,FALSE,Alan Parker,"February 14, 1944",Midnight Express
+52,FALSE,Bob Fosse,"June 23, 1927",All That Jazz
+52,FALSE,Francis Ford Coppola,"April 07, 1939",Apocalypse Now
+52,FALSE,Peter Yates,"July 24, 1929",Breaking Away
+52,TRUE,Robert Benton,"September 29, 1932",Kramer vs. Kramer
+52,FALSE,Édouard Molinaro,"May 13, 1928",La Cage aux Folles
+53,FALSE,David Lynch,"January 20, 1946",The Elephant Man
+53,TRUE,Robert Redford,"August 18, 1936",Ordinary People
+53,FALSE,Martin Scorsese,"November 17, 1942",Raging Bull
+53,FALSE,Richard Rush,"April 15, 1929",The Stunt Man
+53,FALSE,Roman Polanski,"August 18, 1933",Tess
+54,FALSE,Louis Malle,"October 30, 1932",Atlantic City
+54,FALSE,Hugh Hudson,"August 25, 1936",Chariots of Fire
+54,FALSE,Mark Rydell,"March 23, 1929",On Golden Pond
+54,FALSE,Steven Spielberg,"December 18, 1946",Raiders of the Lost Ark
+54,TRUE,Warren Beatty,"March 30, 1937",Reds
+55,FALSE,Wolfgang Petersen,"March 14, 1941",Das Boot
+55,FALSE,Steven Spielberg,"December 18, 1946",E.T. The Extra-Terrestrial
+55,TRUE,Richard Attenborough,"August 29, 1923",Gandhi
+55,FALSE,Sydney Pollack,"July 01, 1934",Tootsie
+55,FALSE,Sidney Lumet,"June 25, 1924",The Verdict
+56,FALSE,Peter Yates,"July 24, 1929",The Dresser
+56,FALSE,Ingmar Bergman,"July 14, 1918",Fanny & Alexander
+56,FALSE,Mike Nichols,"November 06, 1931",Silkwood
+56,FALSE,Bruce Beresford,"August 16, 1940",Tender Mercies
+56,TRUE,James L. Brooks,"May 09, 1940",Terms of Endearment
+57,TRUE,Miloš Forman,"February 18, 1932",Amadeus
+57,FALSE,Woody Allen,"December 01, 1935",Broadway Danny Rose
+57,FALSE,Roland Joffé,"November 17, 1945",The Killing Fields
+57,FALSE,David Lean,"March 25, 1908",A Passage to India
+57,FALSE,Robert Benton,"September 29, 1932",Places in the Heart
+58,FALSE,Héctor Babenco,"February 07, 1946",Kiss of the Spider Woman
+58,TRUE,Sydney Pollack,"July 01, 1934",Out of Africa
+58,FALSE,John Huston,"August 05, 1906",Prizzi's Honor
+58,FALSE,Akira Kurosawa,"March 23, 1910",Ran
+58,FALSE,Peter Weir,"August 21, 1944",Witness
+59,FALSE,David Lynch,"January 20, 1946",Blue Velvet
+59,FALSE,Woody Allen,"December 01, 1935",Hannah and Her Sisters
+59,FALSE,Roland Joffé,"November 17, 1945",The Mission
+59,TRUE,Oliver Stone,"September 15, 1946",Platoon
+59,FALSE,James Ivory,"June 07, 1928",A Room with a View
+60,FALSE,Adrian Lyne,"March 04, 1941",Fatal Attraction
+60,FALSE,John Boorman,"January 18, 1933",Hope and Glory
+60,TRUE,Bernardo Bertolucci,"March 16, 1941",The Last Emperor
+60,FALSE,Norman Jewison,"July 21, 1926",Moonstruck
+60,FALSE,Lasse Hallström,"June 02, 1946",My Life as a Dog
+61,FALSE,Charles Crichton,"August 06, 1910",A Fish Called Wanda
+61,FALSE,Martin Scorsese,"November 17, 1942",The Last Temptation of Christ
+61,FALSE,Alan Parker,"February 14, 1944",Mississippi Burning
+61,TRUE,Barry Levinson,"April 06, 1942",Rain Man
+61,FALSE,Mike Nichols,"November 06, 1931",Working Girl
+62,TRUE,Oliver Stone,"September 15, 1946",Born on the Fourth of July
+62,FALSE,Woody Allen,"December 01, 1935",Crimes and Misdemeanors
+62,FALSE,Peter Weir,"August 21, 1944",Dead Poets Society
+62,FALSE,Kenneth Branagh,"December 10, 1960",Henry V
+62,FALSE,Jim Sheridan,"February 06, 1949",My Left Foot
+63,TRUE,Kevin Costner,"January 18, 1955",Dances With Wolves
+63,FALSE,Francis Ford Coppola,"April 07, 1939","The Godfather, Part III"
+63,FALSE,Martin Scorsese,"November 17, 1942",Good Fellas
+63,FALSE,Stephen Frears,"June 20, 1941",The Grifters
+63,FALSE,Barbet Schroeder,"August 26, 1941",Reversal of Fortune
+64,FALSE,John Singleton,"January 06, 1968",Boyz N the Hood
+64,FALSE,Barry Levinson,"April 06, 1942",Bugsy
+64,FALSE,Oliver Stone,"September 15, 1946",JFK
+64,TRUE,Jonathan Demme,"February 22, 1944",The Silence of the Lambs
+64,FALSE,Ridley Scott,"November 30, 1937",Thelma & Louise
+65,FALSE,Neil Jordan,"February 25, 1950",The Crying Game
+65,FALSE,James Ivory,"June 07, 1928",Howards End
+65,FALSE,Robert Altman,"February 20, 1925",The Player
+65,FALSE,Martin Brest,"August 08, 1951",Scent of a Woman
+65,TRUE,Clint Eastwood,"May 31, 1930",Unforgiven
+66,FALSE,Jim Sheridan,"February 06, 1949",In the Name of the Father
+66,FALSE,Jane Campion,"April 30, 1954",The Piano
+66,FALSE,James Ivory,"June 07, 1928",The Remains of the Day
+66,TRUE,Steven Spielberg,"December 18, 1946",Schindler's List
+66,FALSE,Robert Altman,"February 20, 1925",Short Cuts
+67,FALSE,Woody Allen,"December 01, 1935",Bullets over Broadway
+67,TRUE,Robert Zemeckis,"May 14, 1952",Forrest Gump
+67,FALSE,Quentin Tarantino,"March 27, 1963",Pulp Fiction
+67,FALSE,Robert Redford,"August 18, 1936",Quiz Show
+67,FALSE,Krzysztof Kieślowski,"June 27, 1941",Red
+68,FALSE,Chris Noonan,"November 14, 1952",Babe
+68,TRUE,Mel Gibson,"January 03, 1956",Braveheart
+68,FALSE,Tim Robbins,"October 16, 1958",Dead Man Walking
+68,FALSE,Mike Figgis,"February 28, 1948",Leaving Las Vegas
+68,FALSE,Michael Radford,"February 24, 1946",The Postman (Il Postino)
+69,TRUE,Anthony Minghella,"January 06, 1954",The English Patient
+69,FALSE,Joel Coen,"November 29, 1954",Fargo
+69,FALSE,Miloš Forman,"February 18, 1932",The People vs. Larry Flynt
+69,FALSE,Mike Leigh,"February 20, 1943",Secrets & Lies
+69,FALSE,Scott Hicks,"March 04, 1953",Shine
+70,FALSE,Peter Cattaneo,"July 01, 1964",The Full Monty
+70,FALSE,Gus Van Sant,"July 24, 1952",Good Will Hunting
+70,FALSE,Curtis Hanson,"March 24, 1945",L.A. Confidential
+70,FALSE,Atom Egoyan,"July 19, 1960",The Sweet Hereafter
+70,TRUE,James Cameron,"August 16, 1954",Titanic
+71,FALSE,Roberto Benigni,"October 27, 1952",Life Is Beautiful
+71,TRUE,Steven Spielberg,"December 18, 1946",Saving Private Ryan
+71,FALSE,John Madden,"April 08, 1949",Shakespeare in Love
+71,FALSE,Terrence Malick,"November 30, 1943",The Thin Red Line
+71,FALSE,Peter Weir,"August 21, 1944",The Truman Show
+72,TRUE,Sam Mendes,"August 01, 1965",American Beauty
+72,FALSE,Spike Jonze,"October 22, 1969",Being John Malkovich
+72,FALSE,Lasse Hallström,"June 02, 1946",The Cider House Rules
+72,FALSE,Michael Mann,"February 05, 1943",The Insider
+72,FALSE,M. Night Shyamalan,"August 06, 1970",The Sixth Sense
+73,FALSE,Stephen Daldry,"May 02, 1960",Billy Elliot
+73,FALSE,Ang Lee,"October 23, 1954","Crouching Tiger, Hidden Dragon"
+73,FALSE,Steven Soderbergh,"January 14, 1963",Erin Brockovich
+73,FALSE,Ridley Scott,"November 30, 1937",Gladiator
+73,TRUE,Steven Soderbergh,"January 14, 1963",Traffic
+74,TRUE,Ron Howard,"March 01, 1954",A Beautiful Mind
+74,FALSE,Ridley Scott,"November 30, 1937",Black Hawk Down
+74,FALSE,Robert Altman,"February 20, 1925",Gosford Park
+74,FALSE,Peter Jackson,"October 31, 1961",The Lord of the Rings: The Fellowship of the Ring
+74,FALSE,David Lynch,"January 20, 1946",Mulholland Drive
+75,FALSE,Rob Marshall,"October 17, 1960",Chicago
+75,FALSE,Martin Scorsese,"November 17, 1942",Gangs of New York
+75,FALSE,Stephen Daldry,"May 02, 1960",The Hours
+75,TRUE,Roman Polanski,"August 18, 1933",The Pianist
+75,FALSE,Pedro Almodóvar,"September 25, 1949",Talk to Her
+76,FALSE,Fernando Meirelles,"November 09, 1955",City of God
+76,TRUE,Peter Jackson,"October 31, 1961",The Lord of the Rings: The Return of the King
+76,FALSE,Sofia Coppola,"May 14, 1971",Lost in Translation
+76,FALSE,Peter Weir,"August 21, 1944",Master and Commander: The Far Side of the World
+76,FALSE,Clint Eastwood,"May 31, 1930",Mystic River
+77,FALSE,Martin Scorsese,"November 17, 1942",The Aviator
+77,TRUE,Clint Eastwood,"May 31, 1930",Million Dollar Baby
+77,FALSE,Taylor Hackford,"December 31, 1944",Ray
+77,FALSE,Alexander Payne,"February 10, 1961",Sideways
+77,FALSE,Mike Leigh,"February 20, 1943",Vera Drake
+78,TRUE,Ang Lee,"October 23, 1954",Brokeback Mountain
+78,FALSE,Bennett Miller,"December 30, 1966",Capote
+78,FALSE,Paul Haggis,"March 10, 1953",Crash
+78,FALSE,George Clooney,"May 06, 1961","Good Night, and Good Luck."
+78,FALSE,Steven Spielberg,"December 18, 1946",Munich
+79,FALSE,Alejandro G. Iñárritu,"August 15, 1963",Babel
+79,TRUE,Martin Scorsese,"November 17, 1942",The Departed
+79,FALSE,Clint Eastwood,"May 31, 1930",Letters from Iwo Jima
+79,FALSE,Stephen Frears,"June 20, 1941",The Queen
+79,FALSE,Paul Greengrass,"August 13, 1955",United 93
+80,FALSE,Julian Schnabel,"October 26, 1951",The Diving Bell and the Butterfly
+80,FALSE,Jason Reitman,"October 19, 1977",Juno
+80,FALSE,Tony Gilroy,"September 11, 1956",Michael Clayton
+80,TRUE,Joel Coen*,"November 29, 1954",No Country for Old Men
+80,TRUE,Ethan Coen*,"September 21, 1957",No Country for Old Men
+80,FALSE,Paul Thomas Anderson,"June 26, 1970",There Will Be Blood
+81,FALSE,David Fincher,"August 28, 1962",The Curious Case of Benjamin Button
+81,FALSE,Ron Howard,"March 01, 1954",Frost/Nixon
+81,FALSE,Gus Van Sant,"July 24, 1952",Milk
+81,FALSE,Stephen Daldry,"May 02, 1960",The Reader
+81,TRUE,Danny Boyle,"October 20, 1956",Slumdog Millionaire
+82,FALSE,James Cameron,"August 16, 1954",Avatar
+82,TRUE,Kathryn Bigelow,"November 27, 1951",The Hurt Locker
+82,FALSE,Quentin Tarantino,"March 27, 1963",Inglourious Basterds
+82,FALSE,Lee Daniels,"December 24, 1959",Precious: Based on the Novel 'Push' by Sapphire
+82,FALSE,Jason Reitman,"October 19, 1977",Up in the Air
+83,FALSE,Darren Aronofsky,"February 12, 1969",Black Swan
+83,FALSE,David O. Russell,"August 20, 1958",The Fighter
+83,TRUE,Tom Hooper,"October 05, 1972",The King's Speech
+83,FALSE,David Fincher,"August 28, 1962",The Social Network
+83,FALSE,Joel Coen*,"November 29, 1954",True Grit
+83,FALSE,Ethan Coen*,"September 21, 1957",True Grit
+84,TRUE,Michel Hazanavicius,"March 29, 1967",The Artist
+84,FALSE,Alexander Payne,"February 10, 1961",The Descendants
+84,FALSE,Martin Scorsese,"November 17, 1942",Hugo
+84,FALSE,Woody Allen,"December 01, 1935",Midnight in Paris
+84,FALSE,Terrence Malick,"November 30, 1943",The Tree of Life
+85,FALSE,Michael Haneke,"March 23, 1942",Amour
+85,FALSE,Benh Zeitlin,"October 14, 1982",Beasts of the Southern Wild
+85,TRUE,Ang Lee,"October 23, 1954",Life of Pi
+85,FALSE,Steven Spielberg,"December 18, 1946",Lincoln
+85,FALSE,David O. Russell,"August 20, 1958",Silver Linings Playbook
+86,FALSE,David O. Russell,"August 20, 1958",American Hustle
+86,TRUE,Alfonso Cuarón,"November 28, 1961",Gravity
+86,FALSE,Alexander Payne,"February 10, 1961",Nebraska
+86,FALSE,Steve McQueen,"October 09, 1969",12 Years a Slave
+86,FALSE,Martin Scorsese,"November 17, 1942",The Wolf of Wall Street
+87,TRUE,Alejandro G. Iñárritu,"August 15, 1963",Birdman or (The Unexpected Virtue of Ignorance)
+87,FALSE,Richard Linklater,"July 30, 1960",Boyhood
+87,FALSE,Bennett Miller,"December 30, 1966",Foxcatcher
+87,FALSE,Wes Anderson,"May 01, 1969",The Grand Budapest Hotel
+87,FALSE,Morten Tyldum,"May 19, 1967",The Imitation Game
+88,FALSE,Adam McKay,"April 17, 1968",The Big Short
+88,FALSE,George Miller,"March 03, 1945",Mad Max: Fury Road
+88,TRUE,Alejandro G. Iñárritu,"August 15, 1963",The Revenant
+88,FALSE,Lenny Abrahamson,"November 30, 1966",Room
+88,FALSE,Tom McCarthy,"June 07, 1966",Spotlight
+89,FALSE,Denis Villeneuve,"October 03, 1967",Arrival
+89,FALSE,Mel Gibson,"January 03, 1956",Hacksaw Ridge
+89,TRUE,Damien Chazelle,"January 19, 1985",La La Land
+89,FALSE,Kenneth Lonergan,"October 16, 1962",Manchester by the Sea
+89,FALSE,Barry Jenkins,"November 19, 1979",Moonlight
+90,FALSE,Christopher Nolan,"July 30, 1970",Dunkirk
+90,FALSE,Jordan Peele,"February 21, 1979",Get Out
+90,FALSE,Greta Gerwig,"August 04, 1983",Lady Bird
+90,FALSE,Paul Thomas Anderson,"June 26, 1970",Phantom Thread
+90,TRUE,Guillermo del Toro,"October 09, 1964",The Shape of Water
+91,FALSE,Spike Lee,"March 20, 1957",BlacKkKlansman
+91,FALSE,Pawel Pawlikowski,"September 15, 1957",Cold War
+91,FALSE,Yorgos Lanthimos,"September 23, 1973",The Favourite
+91,TRUE,Alfonso Cuarón,"November 28, 1961",Roma
+91,FALSE,Adam McKay,"April 17, 1968",Vice
+92,FALSE,Martin Scorsese,"November 17, 1942",The Irishman
+92,FALSE,Todd Phillips,"December 20, 1970",Joker
+92,FALSE,Sam Mendes,"August 01, 1965",1917
+92,FALSE,Quentin Tarantino,"March 27, 1963",Once Upon a Time in Hollywood
+92,TRUE,Bong Joon-ho,"September 14, 1969",Parasite

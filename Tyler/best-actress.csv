@@ -1,0 +1,457 @@
+Ceremony,Won,Name,Birthdate,Film,Role
+1,FALSE,Louise Dresser,"October 05, 1878",A Ship Comes In,Mrs. Pleznik
+1,TRUE,Janet Gaynor,"October 06, 1906",7th Heaven; Street Angel; Sunrise,Diane; Angela; The Wife
+1,FALSE,Gloria Swanson,"March 27, 1899",Sadie Thompson,Sadie Thompson
+2,FALSE,Ruth Chatterton,"December 24, 1892",Madame X,Jacqueline Floriot
+2,FALSE,Betty Compson,"March 19, 1897",The Barker,Carrie
+2,FALSE,Jeanne Eagels,"June 26, 1890",The Letter,Leslie Crosbie
+2,FALSE,Corinne Griffith,"November 21, 1894",The Divine Lady,"Emma Hart, Lady Hamilton"
+2,FALSE,Bessie Love,"September 10, 1898",The Broadway Melody,Hank Mahoney
+2,TRUE,Mary Pickford,"April 08, 1892",Coquette,Norma Besant
+3,FALSE,Nancy Carroll,"November 19, 1903",The Devil's Holiday,Hallie Hobart
+3,FALSE,Ruth Chatterton,"December 24, 1892",Sarah and Son,Sarah Storm
+3,FALSE,Greta Garbo,"September 18, 1905",Anna Christie; Romance,Anna Christie; Madame Rita Cavallini
+3,TRUE,Norma Shearer,"August 10, 1902",The Divorcee,Jerry
+3,FALSE,Norma Shearer,"August 10, 1902",Their Own Desire,Lucia 'Lally' Marlett
+3,FALSE,Gloria Swanson,"March 27, 1899",The Trespasser,Marion Donnell
+4,FALSE,Marlene Dietrich,"December 27, 1901",Morocco,Amy Jolly
+4,TRUE,Marie Dressler,"November 09, 1868",Min and Bill,Min
+4,FALSE,Irene Dunne,"December 20, 1898",Cimarron,Sabra Cravat
+4,FALSE,Ann Harding,"August 07, 1902",Holiday,Linda Seton
+4,FALSE,Norma Shearer,"August 10, 1902",A Free Soul,Jan Ashe
+5,FALSE,Marie Dressler,"November 09, 1868",Emma,Emma
+5,FALSE,Lynn Fontanne,"December 06, 1887",The Guardsman,The Actress
+5,TRUE,Helen Hayes,"October 10, 1900",The Sin of Madelon Claudet,Madelon
+6,TRUE,Katharine Hepburn,"May 12, 1907",Morning Glory,Eva Lovelace
+6,FALSE,May Robson,"April 19, 1858",Lady for a Day,Apple Annie
+6,FALSE,Diana Wynyard,"January 16, 1906",Cavalcade,Jane Marryot
+7,TRUE,Claudette Colbert,"September 13, 1903",It Happened One Night,Ellie Andrews
+7,FALSE,Bette Davis,"April 05, 1908",Of Human Bondage,Mildred
+7,FALSE,Grace Moore,"December 05, 1898",One Night of Love,Mary
+7,FALSE,Norma Shearer,"August 10, 1902",The Barretts of Wimpole Street,Elizabeth Barrett
+8,FALSE,Elisabeth Bergner,"August 22, 1897",Escape Me Never,Gemma Jones
+8,FALSE,Claudette Colbert,"September 13, 1903",Private Worlds,Jane Everest
+8,TRUE,Bette Davis,"April 05, 1908",Dangerous,Joyce Heath
+8,FALSE,Katharine Hepburn,"May 12, 1907",Alice Adams,Alice Adams
+8,FALSE,Miriam Hopkins,"October 18, 1902",Becky Sharp,Becky Sharp
+8,FALSE,Merle Oberon,"February 19, 1911",The Dark Angel,Kitty Vane
+9,FALSE,Irene Dunne,"December 20, 1898",Theodora Goes Wild,Theodora Lynn
+9,FALSE,Gladys George,"September 13, 1904",Valiant Is the Word for Carrie,Carrie Snyder
+9,FALSE,Carole Lombard,"October 06, 1908",My Man Godfrey,Irene Bullock
+9,TRUE,Luise Rainer,"January 12, 1910",The Great Ziegfeld,Anna Held
+9,FALSE,Norma Shearer,"August 10, 1902",Romeo and Juliet,Juliet
+10,FALSE,Irene Dunne,"December 20, 1898",The Awful Truth,Lucy Warriner
+10,FALSE,Greta Garbo,"September 18, 1905",Camille,Marguerite Gautier (Camille)
+10,FALSE,Janet Gaynor,"October 06, 1906",A Star Is Born,Esther Blodgett/Vicki Lester
+10,TRUE,Luise Rainer,"January 12, 1910",The Good Earth,O-Lan
+10,FALSE,Barbara Stanwyck,"July 16, 1907",Stella Dallas,Stella Dallas
+11,FALSE,Fay Bainter,"December 07, 1893",White Banners,Hannah
+11,TRUE,Bette Davis,"April 05, 1908",Jezebel,Julie Morrison
+11,FALSE,Wendy Hiller,"August 15, 1912",Pygmalion,Eliza Doolittle
+11,FALSE,Norma Shearer,"August 10, 1902",Marie Antoinette,Marie Antoinette
+11,FALSE,Margaret Sullavan,"May 16, 1909",Three Comrades,Pat Hollmann
+12,FALSE,Bette Davis,"April 05, 1908",Dark Victory,Judith Traherne
+12,FALSE,Irene Dunne,"December 20, 1898",Love Affair,Terry McKay
+12,FALSE,Greta Garbo,"September 18, 1905",Ninotchka,Lena Yakushova (Ninotchka)
+12,FALSE,Greer Garson,"September 29, 1904","Goodbye, Mr. Chips",Katherine Chipping
+12,TRUE,Vivien Leigh,"November 05, 1913",Gone with the Wind,Scarlett O'Hara
+13,FALSE,Bette Davis,"April 05, 1908",The Letter,Leslie Crosbie
+13,FALSE,Joan Fontaine,"October 22, 1917",Rebecca,Mrs. de Winter
+13,FALSE,Katharine Hepburn,"May 12, 1907",The Philadelphia Story,Tracy Lord
+13,TRUE,Ginger Rogers,"July 16, 1911",Kitty Foyle,Kitty Foyle
+13,FALSE,Martha Scott,"September 22, 1912",Our Town,Emily Webb
+14,FALSE,Bette Davis,"April 05, 1908",The Little Foxes,Regina Hubbard Giddens
+14,FALSE,Olivia de Havilland,"July 01, 1916",Hold Back the Dawn,Emmy Brown
+14,TRUE,Joan Fontaine,"October 22, 1917",Suspicion,Lina McLaidlaw
+14,FALSE,Greer Garson,"September 29, 1904",Blossoms in the Dust,Edna Gladney
+14,FALSE,Barbara Stanwyck,"July 16, 1907",Ball of Fire,Sugarpuss O'Shea
+15,FALSE,Bette Davis,"April 05, 1908","Now, Voyager",Charlotte Vale
+15,TRUE,Greer Garson,"September 29, 1904",Mrs. Miniver,Kay Miniver
+15,FALSE,Katharine Hepburn,"May 12, 1907",Woman of the Year,Tess Harding
+15,FALSE,Rosalind Russell,"June 04, 1907",My Sister Eileen,Ruth Sherwood
+15,FALSE,Teresa Wright,"October 27, 1918",The Pride of the Yankees,Eleanor Gehrig
+16,FALSE,Jean Arthur,"October 17, 1900",The More the Merrier,Connie Milligan
+16,FALSE,Ingrid Bergman,"August 29, 1915",For Whom the Bell Tolls,Maria
+16,FALSE,Joan Fontaine,"October 22, 1917",The Constant Nymph,Teresa 'Tessa' Sanger
+16,FALSE,Greer Garson,"September 29, 1904",Madame Curie,Madame Marie Curie
+16,TRUE,Jennifer Jones,"March 02, 1919",The Song of Bernadette,Bernadette Soubirous
+17,TRUE,Ingrid Bergman,"August 29, 1915",Gaslight,Paula Alquist
+17,FALSE,Claudette Colbert,"September 13, 1903",Since You Went Away,Anne Hilton
+17,FALSE,Bette Davis,"April 05, 1908",Mr. Skeffington,Fanny Trellis Skeffington
+17,FALSE,Greer Garson,"September 29, 1904",Mrs. Parkington,Susie Parkington
+17,FALSE,Barbara Stanwyck,"July 16, 1907",Double Indemnity,Phyllis Dietrichson
+18,FALSE,Ingrid Bergman,"August 29, 1915",The Bells of St. Mary's,Sister Benedict
+18,TRUE,Joan Crawford,"March 23, 1904",Mildred Pierce,Mildred Pierce
+18,FALSE,Greer Garson,"September 29, 1904",The Valley of Decision,Mary Rafferty
+18,FALSE,Jennifer Jones,"March 02, 1919",Love Letters,Singleton
+18,FALSE,Gene Tierney,"November 19, 1920",Leave Her to Heaven,Ellen Berent
+19,TRUE,Olivia de Havilland,"July 01, 1916",To Each His Own,Jody Norris
+19,FALSE,Celia Johnson,"December 18, 1908",Brief Encounter,Laura Jesson
+19,FALSE,Jennifer Jones,"March 02, 1919",Duel in the Sun,Pearl Chavez
+19,FALSE,Rosalind Russell,"June 04, 1907",Sister Kenny,Elizabeth Kenny
+19,FALSE,Jane Wyman,"January 05, 1917",The Yearling,Ma Baxter
+20,FALSE,Joan Crawford,"March 23, 1904",Possessed,Louise Howell
+20,FALSE,Susan Hayward,"June 30, 1917",Smash-Up--The Story of a Woman,Angie
+20,FALSE,Dorothy McGuire,"June 14, 1916",Gentleman's Agreement,Kathy
+20,FALSE,Rosalind Russell,"June 04, 1907",Mourning Becomes Electra,Lavinia Mannon
+20,TRUE,Loretta Young,"January 06, 1913",The Farmer's Daughter,Katrin Holstrom
+21,FALSE,Ingrid Bergman,"August 29, 1915",Joan of Arc,Joan of Arc
+21,FALSE,Olivia de Havilland,"July 01, 1916",The Snake Pit,Virginia Stuart Cunningham
+21,FALSE,Irene Dunne,"December 20, 1898",I Remember Mama,Mama
+21,FALSE,Barbara Stanwyck,"July 16, 1907","Sorry, Wrong Number",Leona Stevenson
+21,TRUE,Jane Wyman,"January 05, 1917",Johnny Belinda,Belinda McDonald
+22,FALSE,Jeanne Crain,"May 25, 1925",Pinky,Pinky
+22,TRUE,Olivia de Havilland,"July 01, 1916",The Heiress,Catherine Sloper
+22,FALSE,Susan Hayward,"June 30, 1917",My Foolish Heart,Eloise Winters
+22,FALSE,Deborah Kerr,"September 30, 1921","Edward, My Son",Evelyn Boult
+22,FALSE,Loretta Young,"January 06, 1913",Come to the Stable,Sister Margaret
+23,FALSE,Anne Baxter,"May 07, 1923",All about Eve,Eve Harrington
+23,FALSE,Bette Davis,"April 05, 1908",All about Eve,Margo Channing
+23,TRUE,Judy Holliday,"June 21, 1921",Born Yesterday,Billie Dawn
+23,FALSE,Eleanor Parker,"June 26, 1922",Caged,Marie Allen
+23,FALSE,Gloria Swanson,"March 27, 1899",Sunset Blvd.,Norma Desmond
+24,FALSE,Katharine Hepburn,"May 12, 1907",The African Queen,Rose Sayer
+24,TRUE,Vivien Leigh,"November 05, 1913",A Streetcar Named Desire,Blanche DuBois
+24,FALSE,Eleanor Parker,"June 26, 1922",Detective Story,Mary McLeod
+24,FALSE,Shelley Winters,"August 18, 1920",A Place in the Sun,Alice Tripp
+24,FALSE,Jane Wyman,"January 05, 1917",The Blue Veil,Louise Mason
+25,TRUE,Shirley Booth,"August 30, 1898","Come Back, Little Sheba",Lola Delaney
+25,FALSE,Joan Crawford,"March 23, 1904",Sudden Fear,Myra Hudson
+25,FALSE,Bette Davis,"April 05, 1908",The Star,Margaret Elliot
+25,FALSE,Julie Harris,"December 02, 1925",The Member of the Wedding,Frankie Addams
+25,FALSE,Susan Hayward,"June 30, 1917",With a Song in My Heart,Jane Froman
+26,FALSE,Leslie Caron,"July 01, 1931",Lili,Lili Daurier
+26,FALSE,Ava Gardner,"December 24, 1922",Mogambo,Eloise 'Honey Bear' Kelly
+26,TRUE,Audrey Hepburn,"May 04, 1929",Roman Holiday,Princess Anne
+26,FALSE,Deborah Kerr,"September 30, 1921",From Here to Eternity,Karen Holmes
+26,FALSE,Maggie McNamara,"June 18, 1928",The Moon Is Blue,Patty O'Neill
+27,FALSE,Dorothy Dandridge,"November 09, 1922",Carmen Jones,Carmen Jones
+27,FALSE,Judy Garland,"June 10, 1922",A Star Is Born,Esther Blodgett/Vicki Lester
+27,FALSE,Audrey Hepburn,"May 04, 1929",Sabrina,Sabrina Fairchild
+27,TRUE,Grace Kelly,"November 12, 1929",The Country Girl,Georgie Elgin
+27,FALSE,Jane Wyman,"January 05, 1917",Magnificent Obsession,Helen Phillips
+28,FALSE,Susan Hayward,"June 30, 1917",I'll Cry Tomorrow,Lillian Roth
+28,FALSE,Katharine Hepburn,"May 12, 1907",Summertime,Jane Hudson
+28,FALSE,Jennifer Jones,"March 02, 1919",Love Is a Many-Splendored Thing,Han Suyin
+28,TRUE,Anna Magnani,"March 07, 1908",The Rose Tattoo,Serafina Della Rose
+28,FALSE,Eleanor Parker,"June 26, 1922",Interrupted Melody,Marjorie Lawrence
+29,FALSE,Carroll Baker,"May 28, 1931",Baby Doll,Baby Doll
+29,TRUE,Ingrid Bergman,"August 29, 1915",Anastasia,The Woman
+29,FALSE,Katharine Hepburn,"May 12, 1907",The Rainmaker,Lizzie Curry
+29,FALSE,Nancy Kelly,"March 25, 1921",The Bad Seed,Christine Penmark
+29,FALSE,Deborah Kerr,"September 30, 1921",The King and I,Anna
+30,FALSE,Deborah Kerr,"September 30, 1921","Heaven Knows, Mr. Allison",Sister Angela
+30,FALSE,Anna Magnani,"March 07, 1908",Wild Is the Wind,Gioia
+30,FALSE,Elizabeth Taylor,"February 27, 1932",Raintree County,Susanna Drake
+30,FALSE,Lana Turner,"February 08, 1921",Peyton Place,Constance MacKenzie
+30,TRUE,Joanne Woodward,"February 27, 1930",The Three Faces of Eve,Eve White/Eve Black/Jane
+31,TRUE,Susan Hayward,"June 30, 1917",I Want to Live!,Barbara Graham
+31,FALSE,Deborah Kerr,"September 30, 1921",Separate Tables,Sibyl Railton-Bell
+31,FALSE,Shirley MacLaine,"April 24, 1934",Some Came Running,Ginny Moorhead
+31,FALSE,Rosalind Russell,"June 04, 1907",Auntie Mame,Auntie Mame Dennis
+31,FALSE,Elizabeth Taylor,"February 27, 1932",Cat on a Hot Tin Roof,Maggie Pollitt
+32,FALSE,Doris Day,"April 03, 1922",Pillow Talk,Jan Morrow
+32,FALSE,Audrey Hepburn,"May 04, 1929",The Nun's Story,Sister Luke
+32,FALSE,Katharine Hepburn,"May 12, 1907","Suddenly, Last Summer",Mrs. Venable
+32,TRUE,Simone Signoret,"March 25, 1921",Room at the Top,Alice Aisgill
+32,FALSE,Elizabeth Taylor,"February 27, 1932","Suddenly, Last Summer",Catherine Holly
+33,FALSE,Greer Garson,"September 29, 1904",Sunrise at Campobello,Eleanor Roosevelt
+33,FALSE,Deborah Kerr,"September 30, 1921",The Sundowners,Ida Carmody
+33,FALSE,Shirley MacLaine,"April 24, 1934",The Apartment,Fran Kubelik
+33,FALSE,Melina Mercouri,"October 18, 1920",Never on Sunday,Ilya
+33,TRUE,Elizabeth Taylor,"February 27, 1932",Butterfield 8,Gloria Wandrous
+34,FALSE,Audrey Hepburn,"May 04, 1929",Breakfast at Tiffany's,Holly Golightly
+34,FALSE,Piper Laurie,"January 22, 1932",The Hustler,Sarah Packard
+34,TRUE,Sophia Loren,"September 20, 1934",Two Women,Cesira
+34,FALSE,Geraldine Page,"November 22, 1924",Summer and Smoke,Alma Winemiller
+34,FALSE,Natalie Wood,"July 20, 1938",Splendor in the Grass,Wilma Dean Loomis
+35,TRUE,Anne Bancroft,"September 17, 1931",The Miracle Worker,Annie Sullivan
+35,FALSE,Bette Davis,"April 05, 1908",What Ever Happened to Baby Jane?,Jane Hudson
+35,FALSE,Katharine Hepburn,"May 12, 1907",Long Day's Journey into Night,Mary Tyrone
+35,FALSE,Geraldine Page,"November 22, 1924",Sweet Bird of Youth,Alexandra Del Lago
+35,FALSE,Lee Remick,"December 14, 1935",Days of Wine and Roses,Kirsten Arnesen
+36,FALSE,Leslie Caron,"July 01, 1931",The L-Shaped Room,Jane
+36,FALSE,Shirley MacLaine,"April 24, 1934",Irma La Douce,Irma La Douce
+36,TRUE,Patricia Neal,"January 20, 1926",Hud,Alma
+36,FALSE,Rachel Roberts,"September 20, 1927",This Sporting Life,Mrs. Hammond
+36,FALSE,Natalie Wood,"July 20, 1938",Love with the Proper Stranger,Angie
+37,TRUE,Julie Andrews,"October 01, 1935",Mary Poppins,Mary Poppins
+37,FALSE,Anne Bancroft,"September 17, 1931",The Pumpkin Eater,Jo Armitage
+37,FALSE,Sophia Loren,"September 20, 1934",Marriage Italian Style,Filomena Marturano
+37,FALSE,Debbie Reynolds,"April 01, 1932",The Unsinkable Molly Brown,Molly Brown
+37,FALSE,Kim Stanley,"February 11, 1925",Seance on a Wet Afternoon,Myra Savage
+38,FALSE,Julie Andrews,"October 01, 1935",The Sound of Music,Maria
+38,TRUE,Julie Christie,"April 14, 1940",Darling,Diana Scott
+38,FALSE,Samantha Eggar,"March 05, 1939",The Collector,Miranda Grey
+38,FALSE,Elizabeth Hartman,"December 23, 1943",A Patch of Blue,Selina D'Arcey
+38,FALSE,Simone Signoret,"March 25, 1921",Ship of Fools,La Condessa
+39,FALSE,Anouk Aimee,"April 27, 1932",A Man and a Woman,Anne Gauthier
+39,FALSE,Ida Kaminska,"September 18, 1899",The Shop on Main Street,Rozalie Lautmanova
+39,FALSE,Lynn Redgrave,"March 08, 1943",Georgy Girl,Georgy Parkin
+39,FALSE,Vanessa Redgrave,"January 30, 1937",Morgan!,Leonie Delt
+39,TRUE,Elizabeth Taylor,"February 27, 1932",Who's Afraid of Virginia Woolf?,Martha
+40,FALSE,Anne Bancroft,"September 17, 1931",The Graduate,Mrs. Robinson
+40,FALSE,Faye Dunaway,"January 14, 1941",Bonnie and Clyde,Bonnie Parker
+40,FALSE,Dame Edith Evans,"February 08, 1888",The Whisperers,Mrs. Ross
+40,FALSE,Audrey Hepburn,"May 04, 1929",Wait until Dark,Susy Hendrix
+40,TRUE,Katharine Hepburn,"May 12, 1907",Guess Who's Coming to Dinner,Christina Drayton
+41,TRUE,Katharine Hepburn,"May 12, 1907",The Lion in Winter,Queen Eleanor of Aquitaine
+41,FALSE,Patricia Neal,"January 20, 1926",The Subject Was Roses,Nettie Cleary
+41,FALSE,Vanessa Redgrave,"January 30, 1937",Isadora,Isadora Duncan
+41,TRUE,Barbra Streisand,"April 24, 1942",Funny Girl,Fanny Brice
+41,FALSE,Joanne Woodward,"February 27, 1930","Rachel, Rachel",Rachel Cameron
+42,FALSE,Genevieve Bujold,"July 01, 1942",Anne of the Thousand Days,Anne Boleyn
+42,FALSE,Jane Fonda,"December 21, 1937","They Shoot Horses, Don't They?",Gloria Beatty
+42,FALSE,Liza Minnelli,"March 12, 1946",The Sterile Cuckoo,Pookie Adams
+42,FALSE,Jean Simmons,"January 31, 1929",The Happy Ending,Mary Wilson
+42,TRUE,Maggie Smith,"December 28, 1934",The Prime of Miss Jean Brodie,Miss Jean Brodie
+43,FALSE,Jane Alexander,"October 28, 1939",The Great White Hope,Eleanor Bachman
+43,TRUE,Glenda Jackson,"May 09, 1936",Women in Love,Gudrun Brangwen
+43,FALSE,Ali MacGraw,"April 01, 1939",Love Story,Jenny Cavilleri
+43,FALSE,Sarah Miles,"December 31, 1941",Ryan's Daughter,Rosy Ryan
+43,FALSE,Carrie Snodgress,"October 27, 1945",Diary of a Mad Housewife,Tina Balser
+44,FALSE,Julie Christie,"April 14, 1940",McCabe & Mrs. Miller,Mrs. Constance Miller
+44,TRUE,Jane Fonda,"December 21, 1937",Klute,Bree Daniel
+44,FALSE,Glenda Jackson,"May 09, 1936",Sunday Bloody Sunday,Alex Greville
+44,FALSE,Vanessa Redgrave,"January 30, 1937","Mary, Queen of Scots","Mary, Queen of Scots"
+44,FALSE,Janet Suzman,"February 09, 1939",Nicholas and Alexandra,Alexandra
+45,TRUE,Liza Minnelli,"March 12, 1946",Cabaret,Sally Bowles
+45,FALSE,Diana Ross,"March 26, 1944",Lady Sings the Blues,Billie Holiday
+45,FALSE,Maggie Smith,"December 28, 1934",Travels with My Aunt,Aunt Augusta
+45,FALSE,Cicely Tyson,"December 19, 1924",Sounder,Rebecca Morgan
+45,FALSE,Liv Ullmann,"December 16, 1938",The Emigrants,Kristina
+46,FALSE,Ellen Burstyn,"December 07, 1932",The Exorcist,Chris MacNeil
+46,TRUE,Glenda Jackson,"May 09, 1936",A Touch of Class,Vicki Allessio
+46,FALSE,Marsha Mason,"April 03, 1942",Cinderella Liberty,Maggie Paul
+46,FALSE,Barbra Streisand,"April 24, 1942",The Way We Were,Katie Morosky
+46,FALSE,Joanne Woodward,"February 27, 1930","Summer Wishes, Winter Dreams",Rita Walden
+47,TRUE,Ellen Burstyn,"December 07, 1932",Alice Doesn't Live Here Anymore,Alice Hyatt
+47,FALSE,Diahann Carroll,"July 17, 1935",Claudine,Claudine
+47,FALSE,Faye Dunaway,"January 14, 1941",Chinatown,Evelyn Cross Mulwray
+47,FALSE,Valerie Perrine,"September 03, 1943",Lenny,Honey Bruce
+47,FALSE,Gena Rowlands,"June 19, 1930",A Woman under the Influence,Mabel Longhetti
+48,FALSE,Isabelle Adjani,"June 27, 1955",The Story of Adele H.,Adele Hugo
+48,FALSE,Ann-Margret,"April 28, 1941",Tommy,Nora Walker Hobbs
+48,TRUE,Louise Fletcher,"July 22, 1934",One Flew over the Cuckoo's Nest,Nurse Mildred Ratched
+48,FALSE,Glenda Jackson,"May 09, 1936",Hedda,Hedda Gabler
+48,FALSE,Carol Kane,"June 18, 1952",Hester Street,Gitl
+49,FALSE,Marie-Christine Barrault,"March 21, 1944","Cousin, Cousine",Marthe
+49,TRUE,Faye Dunaway,"January 14, 1941",Network,Diana Christensen
+49,FALSE,Talia Shire,"April 25, 1946",Rocky,Adrian
+49,FALSE,Sissy Spacek,"December 25, 1949",Carrie,Carrie White
+49,FALSE,Liv Ullmann,"December 16, 1938",Face to Face,Dr. Jenny Isaksson
+50,FALSE,Anne Bancroft,"September 17, 1931",The Turning Point,Emma Jacklin
+50,FALSE,Jane Fonda,"December 21, 1937",Julia,Lillian Hellman
+50,TRUE,Diane Keaton,"January 05, 1946",Annie Hall,Annie Hall
+50,FALSE,Shirley MacLaine,"April 24, 1934",The Turning Point,Deedee Rodgers
+50,FALSE,Marsha Mason,"April 03, 1942",The Goodbye Girl,Paula McFadden
+51,FALSE,Ingrid Bergman,"August 29, 1915",Autumn Sonata,Charlotte Andergast
+51,FALSE,Ellen Burstyn,"December 07, 1932","Same Time, Next Year",Doris
+51,FALSE,Jill Clayburgh,"April 30, 1944",An Unmarried Woman,Erica
+51,TRUE,Jane Fonda,"December 21, 1937",Coming Home,Sally Hyde
+51,FALSE,Geraldine Page,"November 22, 1924",Interiors,Eve
+52,FALSE,Jill Clayburgh,"April 30, 1944",Starting Over,Marilyn Homberg
+52,TRUE,Sally Field,"November 06, 1946",Norma Rae,Norma Rae
+52,FALSE,Jane Fonda,"December 21, 1937",The China Syndrome,Kimberly Wells
+52,FALSE,Marsha Mason,"April 03, 1942",Chapter Two,Jennie MacLaine
+52,FALSE,Bette Midler,"December 01, 1945",The Rose,Rose
+53,FALSE,Ellen Burstyn,"December 07, 1932",Resurrection,Edna May
+53,FALSE,Goldie Hawn,"November 21, 1945",Private Benjamin,Judy Benjamin
+53,FALSE,Mary Tyler Moore,"December 29, 1936",Ordinary People,Beth Jarrett
+53,FALSE,Gena Rowlands,"June 19, 1930",Gloria,Gloria Swenson
+53,TRUE,Sissy Spacek,"December 25, 1949",Coal Miner's Daughter,Loretta Lynn
+54,TRUE,Katharine Hepburn,"May 12, 1907",On Golden Pond,Ethel Thayer
+54,FALSE,Diane Keaton,"January 05, 1946",Reds,Louise Bryant
+54,FALSE,Marsha Mason,"April 03, 1942",Only When I Laugh,Georgia
+54,FALSE,Susan Sarandon,"October 04, 1946",Atlantic City,Sally
+54,FALSE,Meryl Streep,"June 22, 1949",The French Lieutenant's Woman,Sara Woodruff/Anna
+55,FALSE,Julie Andrews,"October 01, 1935",Victor/Victoria,Victor/Victoria
+55,FALSE,Jessica Lange,"April 20, 1949",Frances,Frances Farmer
+55,FALSE,Sissy Spacek,"December 25, 1949",Missing,Beth Horman
+55,TRUE,Meryl Streep,"June 22, 1949",Sophie's Choice,Sophie
+55,FALSE,Debra Winger,"May 16, 1955",An Officer and a Gentleman,Paula Pokrifki
+56,FALSE,Jane Alexander,"October 28, 1939",Testament,Carol Wetherly
+56,TRUE,Shirley MacLaine,"April 24, 1934",Terms of Endearment,Aurora Greenway
+56,FALSE,Meryl Streep,"June 22, 1949",Silkwood,Karen Silkwood
+56,FALSE,Julie Walters,"February 22, 1950",Educating Rita,Rita
+56,FALSE,Debra Winger,"May 16, 1955",Terms of Endearment,Emma Horton
+57,FALSE,Judy Davis,"April 23, 1955",A Passage to India,Adela Quested
+57,TRUE,Sally Field,"November 06, 1946",Places in the Heart,Edna Spalding
+57,FALSE,Jessica Lange,"April 20, 1949",Country,Jewell Ivy
+57,FALSE,Vanessa Redgrave,"January 30, 1937",The Bostonians,Olive Chancellor
+57,FALSE,Sissy Spacek,"December 25, 1949",The River,Mae Garvey
+58,FALSE,Anne Bancroft,"September 17, 1931",Agnes of God,Sister Miriam Ruth
+58,FALSE,Whoopi Goldberg,"November 13, 1955",The Color Purple,Celie
+58,FALSE,Jessica Lange,"April 20, 1949",Sweet Dreams,Patsy Cline
+58,TRUE,Geraldine Page,"November 22, 1924",The Trip to Bountiful,Mrs. Watts
+58,FALSE,Meryl Streep,"June 22, 1949",Out of Africa,Karen
+59,FALSE,Jane Fonda,"December 21, 1937",The Morning After,Alex Sternbergen
+59,TRUE,Marlee Matlin,"August 24, 1965",Children of a Lesser God,Sarah
+59,FALSE,Sissy Spacek,"December 25, 1949",Crimes of the Heart,Babe Magrath
+59,FALSE,Kathleen Turner,"June 19, 1954",Peggy Sue Got Married,Peggy Sue
+59,FALSE,Sigourney Weaver,"October 08, 1949",Aliens,Ripley
+60,TRUE,Cher,"May 20, 1946",Moonstruck,Loretta Castorini
+60,FALSE,Glenn Close,"March 19, 1947",Fatal Attraction,Alex Forrest
+60,FALSE,Holly Hunter,"March 20, 1958",Broadcast News,Jane Craig
+60,FALSE,Sally Kirkland,"October 31, 1941",Anna,Anna
+60,FALSE,Meryl Streep,"June 22, 1949",Ironweed,Helen
+61,FALSE,Glenn Close,"March 19, 1947",Dangerous Liaisons,Marquise de Merteuil
+61,TRUE,Jodie Foster,"November 19, 1962",The Accused,Sarah Tobias
+61,FALSE,Melanie Griffith,"August 09, 1957",Working Girl,Tess McGill
+61,FALSE,Meryl Streep,"June 22, 1949",A Cry in the Dark,Lindy
+61,FALSE,Sigourney Weaver,"October 08, 1949",Gorillas in the Mist,Dian Fossey
+62,FALSE,Isabelle Adjani,"June 27, 1955",Camille Claudel,Camille Claudel
+62,FALSE,Pauline Collins,"September 03, 1940",Shirley Valentine,Shirley Valentine
+62,FALSE,Jessica Lange,"April 20, 1949",Music Box,Ann Talbot
+62,FALSE,Michelle Pfeiffer,"April 29, 1958",The Fabulous Baker Boys,Susie Diamond
+62,TRUE,Jessica Tandy,"June 07, 1909",Driving Miss Daisy,Daisy Werthan
+63,TRUE,Kathy Bates,"June 28, 1948",Misery,Annie Wilkes
+63,FALSE,Anjelica Huston,"July 08, 1951",The Grifters,Lilly Dillon
+63,FALSE,Julia Roberts,"October 28, 1967",Pretty Woman,Vivian Ward
+63,FALSE,Meryl Streep,"June 22, 1949",Postcards from the Edge,Suzanne Vale
+63,FALSE,Joanne Woodward,"February 27, 1930",Mr. & Mrs. Bridge,India Bridge
+64,FALSE,Geena Davis,"January 21, 1956",Thelma & Louise,Thelma
+64,FALSE,Laura Dern,"February 10, 1967",Rambling Rose,Rose
+64,TRUE,Jodie Foster,"November 19, 1962",The Silence of the Lambs,Clarice Starling
+64,FALSE,Bette Midler,"December 01, 1945",For the Boys,Dixie Leonard
+64,FALSE,Susan Sarandon,"October 04, 1946",Thelma & Louise,Louise
+65,FALSE,Catherine Deneuve,"October 22, 1943",Indochine,Eliane
+65,FALSE,Mary McDonnell,"April 28, 1952",Passion Fish,May-Alice
+65,FALSE,Michelle Pfeiffer,"April 29, 1958",Love Field,Lurene Hallett
+65,FALSE,Susan Sarandon,"October 04, 1946",Lorenzo's Oil,Michaela Odone
+65,TRUE,Emma Thompson,"April 15, 1959",Howards End,Margaret Schlegel
+66,FALSE,Angela Bassett,"August 16, 1958",What's Love Got to Do with It,Tina Turner
+66,FALSE,Stockard Channing,"February 13, 1944",Six Degrees of Separation,Ouisa Kittredge
+66,TRUE,Holly Hunter,"March 20, 1958",The Piano,Ada
+66,FALSE,Emma Thompson,"April 15, 1959",The Remains of the Day,Miss Kenton
+66,FALSE,Debra Winger,"May 16, 1955",Shadowlands,Joy Gresham
+67,FALSE,Jodie Foster,"November 19, 1962",Nell,Nell
+67,TRUE,Jessica Lange,"April 20, 1949",Blue Sky,Carly Marshall
+67,FALSE,Miranda Richardson,"March 03, 1958",Tom & Viv,Viv
+67,FALSE,Winona Ryder,"October 29, 1971",Little Women,Jo March
+67,FALSE,Susan Sarandon,"October 04, 1946",The Client,Reggie Love
+68,TRUE,Susan Sarandon,"October 04, 1946",Dead Man Walking,Sister Helen Prejean
+68,FALSE,Elisabeth Shue,"October 06, 1963",Leaving Las Vegas,Sera
+68,FALSE,Sharon Stone,"March 10, 1958",Casino,Ginger McKenna
+68,FALSE,Meryl Streep,"June 22, 1949",The Bridges of Madison County,Francesca Johnson
+68,FALSE,Emma Thompson,"April 15, 1959",Sense and Sensibility,Elinor Dashwood
+69,FALSE,Brenda Blethyn,"February 20, 1946",Secrets & Lies,Cynthia
+69,FALSE,Diane Keaton,"January 05, 1946",Marvin's Room,Bessie
+69,TRUE,Frances McDormand,"June 23, 1957",Fargo,Marge Gunderson
+69,FALSE,Kristin Scott Thomas,"May 24, 1960",The English Patient,Katharine Clifton
+69,FALSE,Emily Watson,"January 14, 1967",Breaking the Waves,Bess
+70,FALSE,Helena Bonham Carter,"May 26, 1966",The Wings of the Dove,Kate Croy
+70,FALSE,Julie Christie,"April 14, 1940",Afterglow,Phyllis Mann
+70,FALSE,Judi Dench,"December 09, 1934",Mrs. Brown,Queen Victoria
+70,TRUE,Helen Hunt,"June 15, 1963",As Good as It Gets,Carol Connelly
+70,FALSE,Kate Winslet,"October 05, 1975",Titanic,Rose DeWitt Bukater
+71,FALSE,Cate Blanchett,"May 14, 1969",Elizabeth,Queen Elizabeth I
+71,FALSE,Fernanda Montenegro,"October 16, 1929",Central Station,Dora
+71,TRUE,Gwyneth Paltrow,"September 27, 1972",Shakespeare in Love,Viola De Lesseps
+71,FALSE,Meryl Streep,"June 22, 1949",One True Thing,Kate Gulden
+71,FALSE,Emily Watson,"January 14, 1967",Hilary and Jackie,Jacqueline du Pré
+72,FALSE,Annette Bening,"May 29, 1958",American Beauty,Carolyn Burnham
+72,FALSE,Janet McTeer,"August 05, 1961",Tumbleweeds,Mary Jo Walker
+72,FALSE,Julianne Moore,"December 03, 1960",The End of the Affair,Sarah Miles
+72,FALSE,Meryl Streep,"June 22, 1949",Music of the Heart,Roberta Guaspari
+72,TRUE,Hilary Swank,"July 30, 1974",Boys Don't Cry,Brandon Teena/Teena Brandon
+73,FALSE,Joan Allen,"August 20, 1956",The Contender,Laine Hanson
+73,FALSE,Juliette Binoche,"March 09, 1964",Chocolat,Vianne Rocher
+73,FALSE,Ellen Burstyn,"December 07, 1932",Requiem for a Dream,Sara Goldfarb
+73,FALSE,Laura Linney,"February 05, 1964",You Can Count on Me,Samantha 'Sammy' Prescott
+73,TRUE,Julia Roberts,"October 28, 1967",Erin Brockovich,Erin Brockovich
+74,TRUE,Halle Berry,"August 14, 1966",Monster's Ball,Leticia Musgrove
+74,FALSE,Judi Dench,"December 09, 1934",Iris,Iris Murdoch
+74,FALSE,Nicole Kidman,"June 20, 1967",Moulin Rouge,Satine
+74,FALSE,Sissy Spacek,"December 25, 1949",In the Bedroom,Ruth Fowler
+74,FALSE,Renée Zellweger,"April 25, 1969",Bridget Jones's Diary,Bridget Jones
+75,FALSE,Salma Hayek,"September 02, 1966",Frida,Frida Kahlo
+75,TRUE,Nicole Kidman,"June 20, 1967",The Hours,Virginia Woolf
+75,FALSE,Diane Lane,"January 22, 1965",Unfaithful,Connie Sumner
+75,FALSE,Julianne Moore,"December 03, 1960",Far from Heaven,Cathy Whitaker
+75,FALSE,Renée Zellweger,"April 25, 1969",Chicago,Roxie Hart
+76,FALSE,Keisha Castle-Hughes,"March 24, 1990",Whale Rider,Paikea
+76,FALSE,Diane Keaton,"January 05, 1946",Something's Gotta Give,Erica Barry
+76,FALSE,Samantha Morton,"May 18, 1977",In America,Sarah
+76,TRUE,Charlize Theron,"August 07, 1975",Monster,Aileen Wuornos
+76,FALSE,Naomi Watts,"September 28, 1968",21 Grams,Cristina Peck
+77,FALSE,Annette Bening,"May 29, 1958",Being Julia,Julia Lambert
+77,FALSE,Catalina Sandino Moreno,"April 19, 1981",Maria Full of Grace,Maria
+77,FALSE,Imelda Staunton,"January 09, 1956",Vera Drake,Vera
+77,TRUE,Hilary Swank,"July 30, 1974",Million Dollar Baby,Maggie Fitzgerald
+77,FALSE,Kate Winslet,"October 05, 1975",Eternal Sunshine of the Spotless Mind,Clementine Kruczynski
+78,FALSE,Judi Dench,"December 09, 1934",Mrs. Henderson Presents,Mrs. Laura Henderson
+78,FALSE,Felicity Huffman,"December 09, 1962",Transamerica,Bree
+78,FALSE,Keira Knightley,"March 26, 1985",Pride & Prejudice,Elizabeth Bennet
+78,FALSE,Charlize Theron,"August 07, 1975",North Country,Josey Aimes
+78,TRUE,Reese Witherspoon,"March 22, 1976",Walk the Line,June Carter
+79,FALSE,Penélope Cruz,"April 28, 1974",Volver,Raimunda
+79,FALSE,Judi Dench,"December 09, 1934",Notes on a Scandal,Barbara Covett
+79,TRUE,Helen Mirren,"July 26, 1945",The Queen,The Queen
+79,FALSE,Meryl Streep,"June 22, 1949",The Devil Wears Prada,Miranda Priestly
+79,FALSE,Kate Winslet,"October 05, 1975",Little Children,Sarah Pierce
+80,FALSE,Cate Blanchett,"May 14, 1969",Elizabeth: The Golden Age,Queen Elizabeth I
+80,FALSE,Julie Christie,"April 14, 1940",Away from Her,Fiona
+80,TRUE,Marion Cotillard,"September 30, 1975",La Vie en Rose,Edith Piaf
+80,FALSE,Laura Linney,"February 05, 1964",The Savages,Wendy Savage
+80,FALSE,Ellen Page,"February 21, 1987",Juno,Juno MacGuff
+81,FALSE,Anne Hathaway,"November 12, 1982",Rachel Getting Married,Kym
+81,FALSE,Angelina Jolie,"June 04, 1975",Changeling,Christine Collins
+81,FALSE,Melissa Leo,"September 14, 1960",Frozen River,Ray Eddy
+81,FALSE,Meryl Streep,"June 22, 1949",Doubt,Sister Aloysius Beauvier
+81,TRUE,Kate Winslet,"October 05, 1975",The Reader,Hanna Schmitz
+82,TRUE,Sandra Bullock,"July 26, 1964",The Blind Side,Leigh Anne Tuohy
+82,FALSE,Helen Mirren,"July 26, 1945",The Last Station,Sofya
+82,FALSE,Carey Mulligan,"May 28, 1985",An Education,Jenny
+82,FALSE,Gabourey Sidibe,"May 06, 1983",Precious: Based on the Novel 'Push' by Sapphire,Precious
+82,FALSE,Meryl Streep,"June 22, 1949",Julie & Julia,Julia Child
+83,FALSE,Annette Bening,"May 29, 1958",The Kids Are All Right,Nic
+83,FALSE,Nicole Kidman,"June 20, 1967",Rabbit Hole,Becca
+83,FALSE,Jennifer Lawrence,"August 15, 1990",Winter's Bone,Ree
+83,TRUE,Natalie Portman,"June 09, 1981",Black Swan,Nina Sayers/The Swan Queen
+83,FALSE,Michelle Williams,"September 09, 1980",Blue Valentine,Cindy
+84,FALSE,Glenn Close,"March 19, 1947",Albert Nobbs,Albert Nobbs
+84,FALSE,Viola Davis,"August 11, 1965",The Help,Aibileen Clark
+84,FALSE,Rooney Mara,"April 17, 1985",The Girl with the Dragon Tattoo,Lisbeth Salander
+84,TRUE,Meryl Streep,"June 22, 1949",The Iron Lady,Margaret Thatcher
+84,FALSE,Michelle Williams,"September 09, 1980",My Week with Marilyn,Marilyn Monroe
+85,FALSE,Jessica Chastain,"March 24, 1977",Zero Dark Thirty,Maya
+85,TRUE,Jennifer Lawrence,"August 15, 1990",Silver Linings Playbook,Tiffany
+85,FALSE,Emmanuelle Riva,"February 24, 1927",Amour,Anne
+85,FALSE,Quvenzhané Wallis,"August 28, 2003",Beasts of the Southern Wild,Hushpuppy
+85,FALSE,Naomi Watts,"September 28, 1968",The Impossible,Maria
+86,FALSE,Amy Adams,"August 20, 1974",American Hustle,Sydney Prosser
+86,TRUE,Cate Blanchett,"May 14, 1969",Blue Jasmine,Jasmine
+86,FALSE,Sandra Bullock,"July 26, 1964",Gravity,Ryan Stone
+86,FALSE,Judi Dench,"December 09, 1934",Philomena,Philomena
+86,FALSE,Meryl Streep,"June 22, 1949",August: Osage County,Violet Weston
+87,FALSE,Marion Cotillard,"September 30, 1975","Two Days, One Night",Sandra
+87,FALSE,Felicity Jones,"October 17, 1983",The Theory of Everything,Jane Hawking
+87,TRUE,Julianne Moore,"December 03, 1960",Still Alice,Alice Howland
+87,FALSE,Rosamund Pike,"January 27, 1979",Gone Girl,Amy Dunne
+87,FALSE,Reese Witherspoon,"March 22, 1976",Wild,Cheryl
+88,FALSE,Cate Blanchett,"May 14, 1969",Carol,Carol Aird
+88,TRUE,Brie Larson,"October 01, 1989",Room,Ma
+88,FALSE,Jennifer Lawrence,"August 15, 1990",Joy,Joy
+88,FALSE,Charlotte Rampling,"February 05, 1946",45 Years,Kate Mercer
+88,FALSE,Saoirse Ronan,"April 12, 1994",Brooklyn,Eilis
+89,FALSE,Isabelle Huppert,"March 16, 1953",Elle,Michèle
+89,FALSE,Ruth Negga,"January 07, 1982",Loving,Mildred
+89,FALSE,Natalie Portman,"June 09, 1981",Jackie,Jackie Kennedy
+89,TRUE,Emma Stone,"November 06, 1988",La La Land,Mia
+89,FALSE,Meryl Streep,"June 22, 1949",Florence Foster Jenkins,Florence Foster Jenkins
+90,FALSE,Sally Hawkins,"April 27, 1976",The Shape of Water,Elisa Esposito
+90,TRUE,Frances McDormand,"June 23, 1957","Three Billboards outside Ebbing, Missouri",Mildred
+90,FALSE,Margot Robbie,"July 02, 1990","I, Tonya",Tonya Harding
+90,FALSE,Saoirse Ronan,"April 12, 1994",Lady Bird,Lady Bird McPherson
+90,FALSE,Meryl Streep,"June 22, 1949",The Post,Kay Graham
+91,FALSE,Yalitza Aparicio,"December 11, 1993",Roma,Cleo
+91,FALSE,Glenn Close,"March 19, 1947",The Wife,Joan Castleman
+91,TRUE,Olivia Colman,"January 30, 1974",The Favourite,Queen Anne
+91,FALSE,Lady Gaga,"March 28, 1986",A Star Is Born,Ally
+91,FALSE,Melissa McCarthy,"August 26, 1970",Can You Ever Forgive Me?,Lee Israel
+92,FALSE,Cynthia Erivo,"January 08, 1987",Harriet,Harriet Tubman
+92,FALSE,Scarlett Johansson,"November 22, 1984",Marriage Story,Nicole Barber
+92,FALSE,Saoirse Ronan,"April 12, 1994",Little Women,Josephine 'Jo' March
+92,FALSE,Charlize Theron,"August 07, 1975",Bombshell,Megyn Kelly
+92,TRUE,Renée Zellweger,"April 25, 1969",Judy,Judy Garland

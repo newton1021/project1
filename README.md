@@ -17,3 +17,5 @@ Our Analysis found the following information:
 **Question 3: Does the date that the movie is released have any correlation on the chances it will win an award?**
 - The answer is a resounding yes.  In doing a data compare, 41.3% of the winning films were released in the fourth quarter, with the majority being released in December.  Summer releases were the least likely to win any awards.
 
+
+![Month of Release Regression Plot](https://github.com/newton1021/project1/blob/main/Jen/WinnersByMonthRegeression.png)

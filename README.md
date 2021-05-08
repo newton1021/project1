@@ -18,4 +18,6 @@ Our Analysis found the following information:
 - The answer is a resounding yes.  In doing a data compare, 41.3% of the winning films were released in the fourth quarter, with the majority being released in December.  Summer releases were the least likely to win any awards.
 
 
-![Month of Release](https://github.com/newton1021/project1/blob/main/Jen/WinnersByMonthRegeression.png) (https://github.com/newton1021/project1/blob/main/Jen/WinnersByMonthPlot.png) (https://github.com/newton1021/project1/blob/main/Jen/WinnersByQuarters.png)
+![Month of Release Regression](https://github.com/newton1021/project1/blob/main/Jen/WinnersByMonthRegeression.png) 
+![Month of Release Plot](https://github.com/newton1021/project1/blob/main/Jen/WinnersByMonthPlot.png) 
+![Quarter of Release](https://github.com/newton1021/project1/blob/main/Jen/WinnersByQuarters.png)

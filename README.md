@@ -21,5 +21,5 @@ Our Analysis found the following information:
 ![Month of Release Regression](https://github.com/newton1021/project1/blob/main/Jen/WinnersByMonthRegeression.png)
 ![Month of Release Plot](https://github.com/newton1021/project1/blob/main/Jen/WinnersByMonthPlot.png) 
 
-**Question 3: Are the Oscar winners rated higher by critics than the average viewer?**
+**Question 4: Are the Oscar winners rated higher by critics than the average viewer?**
 - The answer is on average no, but metacrictic reviews on Oscar winners are more consistant with far fewer outliers. 

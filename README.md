@@ -20,17 +20,15 @@ Our Analysis found the following information:
 ![Month of Release Plot](https://github.com/newton1021/project1/blob/main/Jen/WinnersByMonthPlot.png) 
 
 
-#### Question 3: 
-_Does the date that the movie is released have any correlation on the chances it will win an award?_
+**Question 4: Does the date that the movie is released have any correlation on the chances it will win an award?**
 
 The answer is a resounding yes.  In doing a data compare, 41.3% of the winning films were released in the fourth quarter, with the majority being released in December.  Summer releases were the least likely to win any awards.
 
-#### Question 4:
-_How does the **Best Picture’s** revenue compare over time, how does it compare with non-winning movies?_
+**Question 5:How does the Best Picture’s revenue compare over time, how does it compare with non-winning movies?**
 
-The winner of the Oscar for **Best Picture** does not always mean that it will do well commercially. In fact most of the time it does not do well as the block buster hit of the year. 
+-The winner of the Oscar for **Best Picture** does not always mean that it will do well commercially. In fact most of the time it does not do well as the block buster hit of the year. 
 
-**Question 4: Are the Oscar winners rated higher by critics than the average viewer?**
+**Question 6: Are the Oscar winners rated higher by critics than the average viewer?**
 - Based on the average of reviews from both groups the answer is no, metacrictic reviews on Oscar winners are more consistant with far fewer outliers while Rotten Tomatoes reivews have a much higher median rating. 
 
 

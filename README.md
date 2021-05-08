@@ -22,4 +22,4 @@ Our Analysis found the following information:
 ![Month of Release Plot](https://github.com/newton1021/project1/blob/main/Jen/WinnersByMonthPlot.png) 
 
 **Question 4: Are the Oscar winners rated higher by critics than the average viewer?**
-- The answer is on average no, but metacrictic reviews on Oscar winners are more consistant with far fewer outliers. 
+- Based on the average of reviews from both groups the answer is no, metacrictic reviews on Oscar winners are more consistant with far fewer outliers while Rotten Tomatoes reivews have a much higher median rating. 
